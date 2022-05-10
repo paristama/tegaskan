@@ -12,5 +12,7 @@
             "email": "parisxtama@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
