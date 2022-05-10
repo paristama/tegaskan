@@ -1,5 +1,5 @@
 <?php
-namespace Tegaskan\Sikap\Lapor;
+namespace Laporan;
 
 class Jaga {
 
