@@ -1,0 +1,16 @@
+{
+    "name": "tegaskan/sikap",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tegaskan\\Sikap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paris Tama",
+            "email": "parisxtama@gmail.com"
+        }
+    ],
+    "require": {}
+}
